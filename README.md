@@ -6,10 +6,14 @@ Installation is as easy as cloning the repository and (if you want the tool to w
 
 ### Cloning
 1. To clone we use CLI
+```
 git clone https://github.com/jhadhriti/Weather-Printer-
+```
 
 2. Next, we run the program. All we have to do is run the program. If we want to fetch the verbose data we can type:
+```
 python3 test.py --verbose
+```
    
 3. Now you have the weather data at your fingertips.
 
